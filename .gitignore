@@ -1,4 +1,3 @@
-*.vscode
 CMakeFiles
 darling.jpg
 cmake_install.cmake
